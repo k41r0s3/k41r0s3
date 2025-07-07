@@ -61,10 +61,6 @@ A cybersecurity enthusiast currently interning with a Network and Server team, g
 ##### Certifications
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 
-<h2 align="left">Play games with me</h2>
-
-
-
 <img src="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/snake.svg" alt="Snake animation" />
 
 ###
