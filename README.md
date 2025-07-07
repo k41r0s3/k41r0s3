@@ -1,6 +1,6 @@
 ## Hello World! I'm Khairul Aiman 👋
 
-![k41r0s3](image/kali.png)
+![k41r0s3](./img/kali.png)
 <!--
 **k41r0s3/k41r0s3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
