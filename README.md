@@ -49,4 +49,20 @@ A cybersecurity enthusiast currently interning with a Network and Server team, g
 ![https://www.linkedin.com/in/khairulaimanahmadrosli/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://medium.com/@k41r0s3](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ##### Certifications
-<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+
+<h2 align="left">Play games with me</h2>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/snake.svg" alt="Snake animation" />
+
+###
