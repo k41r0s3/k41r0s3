@@ -2,15 +2,11 @@
 
 ![k41r0s3](img/kali-1.png)
 
-#####
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/k41r0s3/k41r0s3/output/pacman-contribution-graph.svg">
 </picture>
-
-#####
 
 ##### About me
 A cybersecurity enthusiast currently interning with a Network and Server team, gaining hands-on IT infrastructure experience while sharpening my offensive security skills. Passionate about penetration testing, network security, and cloud security, I actively upskill through Hack The Box and online courses to build a strong foundation for my future as an offensive security professional.
@@ -45,9 +41,6 @@ A cybersecurity enthusiast currently interning with a Network and Server team, g
 " /> <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white
 " /> <img src="https://img.shields.io/badge/Wazuh-3595F9?style=for-the-badge&logo=wazuh&logoColor=white"/>
 
-
-
-
 ##### Virtualization
 
 <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" />
@@ -69,8 +62,11 @@ A cybersecurity enthusiast currently interning with a Network and Server team, g
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 
 
+###
 ##### Connect with me
 <a href="https://www.linkedin.com/in/khairulaimanahmadrosli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://medium.com/@k41r0s3"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+
+###
 
 
 ##### Certifications
